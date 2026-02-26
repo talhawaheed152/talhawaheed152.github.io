@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d51d6e8c6a45b3da26a99636168a055",
+    "revision": "28be1138ef5aa99918c90b5a88923a27",
     "url": "/index.html"
   },
   {
-    "revision": "7107e180395ecbfe3b64",
+    "revision": "a8e4507dd43ec66bf55f",
     "url": "/static/css/main.74d7e8d7.chunk.css"
   },
   {
-    "revision": "442b0d7f61874c9d9925",
-    "url": "/static/js/2.497140fb.chunk.js"
+    "revision": "6ef092eb5008bb624ebd",
+    "url": "/static/js/2.5eeeac29.chunk.js"
   },
   {
-    "revision": "7107e180395ecbfe3b64",
-    "url": "/static/js/main.739f2da0.chunk.js"
+    "revision": "a8e4507dd43ec66bf55f",
+    "url": "/static/js/main.313940cb.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animated_logo.dcd6dee2.svg"
   },
   {
+    "revision": "d37d52670b99299357e7a956ae7eb33b",
+    "url": "/static/media/aws_logo.d37d5267.png"
+  },
+  {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/static/media/blogs_image.058eca4c.svg"
   },
@@ -84,8 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMail.5f915405.png"
   },
   {
+    "revision": "69f348c8b0acc8e9f1b2b7703c6e3efc",
+    "url": "/static/media/coursera_logo.69f348c8.png"
+  },
+  {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "/static/media/data_science.ebf35d7f.svg"
+  },
+  {
+    "revision": "1d3d0533e5eb8889f0521fa47e37c056",
+    "url": "/static/media/deeplearning_ai_logo.1d3d0533.jpg"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
@@ -168,6 +180,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
+    "revision": "483c4eb13f2c5f5af6cc66f3188822bb",
+    "url": "/static/media/fau_logo.483c4eb1.png"
+  },
+  {
     "revision": "2936ce95f550e3feef7230ea543a4b60",
     "url": "/static/media/feelingProud.2936ce95.svg"
   },
@@ -182,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "/static/media/github_logo.6eeb2e81.png"
+  },
+  {
+    "revision": "bcf125a6d5aeacb4058c47490819bb79",
+    "url": "/static/media/google.bcf125a6.png"
   },
   {
     "revision": "0c8a4c114ad00f7854e91550379b9b91",
@@ -244,12 +264,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.71408db7.png"
   },
   {
+    "revision": "6e7b8d227100261ebf6a6134d18d5a06",
+    "url": "/static/media/samsung_logo.6e7b8d22.png"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/static/media/stanford_logo.2c497738.png"
   },
   {
-    "revision": "f913fb83dd473cfc10836744e7eddbbd",
-    "url": "/static/media/talha.f913fb83.png"
+    "revision": "cae54dc243f98b7bfde0ade87c0832b0",
+    "url": "/static/media/talha.cae54dc2.png"
   },
   {
     "revision": "daae7eeb11a40c02a48de30dc6847492",
@@ -266,6 +290,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "/static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "1ad2940a12224cb5b6594fa37e79e147",
+    "url": "/static/media/udacity_logo.1ad2940a.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
