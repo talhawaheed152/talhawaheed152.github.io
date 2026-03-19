@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <title>Talha Waheed | Portfolio</title>
+    <script>
+      // Prevent polyfills from overwriting native fetch if it's read-only
+      (function() {
+        const nativeFetch = window.fetch;
+        try {
+          Object.defineProperty(window, 'fetch', {
+            configurable: false,
+            enumerable: true,
+            get: function() { return nativeFetch; }
+          });
+        } catch (e) {
+          console.warn('Could not lock window.fetch, but it might already be protected.');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
